@@ -2,7 +2,7 @@
 #include "stat.h"
 #include "user.h"
 
-// Funtion to reads characters from STDIN (1 byte at a time)
+// Funtion to read characters from STDIN (1 byte at a time)
 
 static void
 getc(int fd, char ** buffer){
